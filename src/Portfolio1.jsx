@@ -128,6 +128,17 @@ const Portfolio = () => {
         "AI-powered Interior Designing Software providing 3D models, layouts, and material suggestions based on user preferences.",
       tech: ["React.js", "Firebase", "Node.js", "Three.js"],
       gradient: "from-green-500 to-emerald-600",
+      url: "https://github.com/Satyamgarodia/ArchAi-RS",
+    },
+    {
+      title: "Corrupted Archives - Cybersecurity Game",
+      period: "Jan 2025 - Jan 2025",
+      status: "Developed",
+      description:
+        "Cyber Security educational game simulating real-world hacking scenarios to teach players about vulnerabilities and defense mechanisms.",
+      tech: ["PHP", "React.js", "MariaDB"],
+      gradient: "from-green-500 to-emerald-600",
+      url: "https://github.com/Satyamgarodia/corruptedarchives.asetcybersec.in",
     },
     {
       title: "UPI Payment Management For SME",
@@ -137,6 +148,7 @@ const Portfolio = () => {
         "Integrated payment solution for multi-counter sales billing with Airtel Payments Bank at low cost for small enterprises.",
       tech: ["PHP", "MySQL", "Linux", "Bootstrap"],
       gradient: "from-red-500 to-red-600",
+      url: "https://betapay.garodia.in.net/",
     },
   ];
 
