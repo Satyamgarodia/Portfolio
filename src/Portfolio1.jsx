@@ -121,13 +121,22 @@ const Portfolio = () => {
       gradient: "from-purple-500 to-pink-600",
     },
     {
+      title: "Arch.Ai",
+      period: "Apr 2025 - Jun 2025",
+      status: "Developed",
+      description:
+        "AI-powered Interior Designing Software providing 3D models, layouts, and material suggestions based on user preferences.",
+      tech: ["React.js", "Firebase", "Node.js", "Three.js"],
+      gradient: "from-green-500 to-emerald-600",
+    },
+    {
       title: "UPI Payment Management For SME",
       period: "May 2023 - Mar 2025",
       status: "Deprecated",
       description:
         "Integrated payment solution for multi-counter sales billing with Airtel Payments Bank at low cost for small enterprises.",
       tech: ["PHP", "MySQL", "Linux", "Bootstrap"],
-      gradient: "from-green-500 to-emerald-600",
+      gradient: "from-red-500 to-red-600",
     },
   ];
 
