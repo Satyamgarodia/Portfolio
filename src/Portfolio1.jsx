@@ -86,11 +86,13 @@ const Portfolio = () => {
   }, []);
 
   const skills = [
+    { name: "Java", level: 80, icon: Code },
+    { name: "Spring", level: 75, icon: Code },
     { name: "React.js", level: 95, icon: Code },
     { name: "Node.js", level: 90, icon: Server },
     { name: "SQL", level: 88, icon: Database },
     { name: "React Native", level: 85, icon: Terminal },
-    { name: "PHP", level: 82, icon: Code },
+    { name: "PHP", level: 90, icon: Code },
     { name: "Google Cloud", level: 80, icon: Cloud },
   ];
 
@@ -110,6 +112,16 @@ const Portfolio = () => {
       ],
       gradient: "from-cyan-500 to-blue-600",
       url: "https://portal.garodia.in.net",
+    },
+    {
+      title: "ApiPurge - AI Enabled Mock Api Generator",
+      period: "Feb 2026 - Mar 2026",
+      status: "Developed",
+      description:
+        "AI Enabled Spring Boot-based mock API generator for rapid prototyping and testing, supporting dynamic endpoints and data schemas.",
+      tech: ["Java", "Spring Boot", "PostgreSQL", "Spring AI"],
+      gradient: "from-green-500 to-emerald-600",
+      url: "https://github.com/Satyamgarodia/ArchAi-RS",
     },
     {
       title: "Octa Wipe – Enterprise Bulk System Wiping",
@@ -352,9 +364,9 @@ const Portfolio = () => {
                     />
                     <span className="text-xl font-semibold">{skill.name}</span>
                   </div>
-                  <span className="text-cyan-400 font-mono">
+                  {/* <span className="text-cyan-400 font-mono">
                     {skill.level}%
-                  </span>
+                  </span> */}
                 </div>
                 <div className="h-3 bg-gray-800 rounded-full overflow-hidden border border-gray-700">
                   <div
