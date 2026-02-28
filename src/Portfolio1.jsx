@@ -86,13 +86,13 @@ const Portfolio = () => {
   }, []);
 
   const skills = [
-    { name: "Java", level: 80, icon: Code },
-    { name: "Spring", level: 75, icon: Code },
-    { name: "React.js", level: 95, icon: Code },
-    { name: "Node.js", level: 90, icon: Server },
+    { name: "Express.js", level: 95, icon: Code },
+    { name: "Java", level: 83, icon: Code },
     { name: "SQL", level: 88, icon: Database },
-    { name: "React Native", level: 85, icon: Terminal },
     { name: "PHP", level: 90, icon: Code },
+    { name: "React Native", level: 77, icon: Terminal },
+    { name: "React.js", level: 90, icon: Server },
+    { name: "Spring", level: 79, icon: Code },
     { name: "Google Cloud", level: 80, icon: Cloud },
   ];
 
