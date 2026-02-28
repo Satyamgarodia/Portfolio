@@ -121,7 +121,7 @@ const Portfolio = () => {
         "AI Enabled Spring Boot-based mock API generator for rapid prototyping and testing, supporting dynamic endpoints and data schemas.",
       tech: ["Java", "Spring Boot", "PostgreSQL", "Spring AI"],
       gradient: "from-green-500 to-emerald-600",
-      url: "https://github.com/Satyamgarodia/ArchAi-RS",
+      url: "https://github.com/Satyamgarodia/APIForge/",
     },
     {
       title: "Octa Wipe – Enterprise Bulk System Wiping",
