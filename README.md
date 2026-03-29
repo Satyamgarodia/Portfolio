@@ -126,7 +126,7 @@ const satyam = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Satyamgarodia&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Satyamgarodia&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com?user=Satyamgarodia&theme=tokyonight&hide_border=true)
 
 </div>
 
