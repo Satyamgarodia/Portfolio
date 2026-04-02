@@ -23,11 +23,11 @@ const satyam = {
   role:       "Student & Indie Developer",
   experience: "Software Developer Intern @ Mai Health Inc, USA",
   currentlyBuilding: [
-    "📦 GPMS — Live SaaS for Field Sales & Operations (Deploying in Phases)",
+    "📦 GPMS — Live SaaS for Field Sales & Operations (Deploying in Phases).",
     "🧹 Octa Wipe — NIST-compliant Bulk Data Wiping for Enterprise (WIP)",
   ],
   strengths:  ["SaaS Architecture", "Full-Stack", "Enterprise Systems", "Linux"],
-  funFact:    "I build SAP-level systems as a pre-final year student 😤"
+  funFact:    "I build SAP-level systems as a pre-final year student, Processed over ₹250+ Million with ~100% latancy <500ms."
 };
 ```
 
@@ -76,7 +76,9 @@ const satyam = {
 
 - Multi-inventory management, accounting, vehicle tracking, payments
 - GST-compliant billing, banking integrations, SAP-level workflows
-- Built with **Express.js · React Native & Web · PostgreSQL · Google Cloud**
+- Our platform has undergone Vulnerability Assessment and Penetration Testing by **Bharti Airtel Limited** — ensuring your data is secure
+- Processed over ₹250+ Million with ~100% latancy < 500ms. 
+- Built with **PostgreSQL · Express.js · React Native & Web · Google Cloud**
 
 ---
 
